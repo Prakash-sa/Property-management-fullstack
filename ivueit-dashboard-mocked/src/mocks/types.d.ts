@@ -1,0 +1,1 @@
+declare global { interface Window { EventSource: any; } } export {};
